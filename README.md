@@ -49,6 +49,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## USER:
 
 | ID | USERNAME |
+|----|----------|
 |EMAIL| FULLNAME|
 |CPF | PASSWORD |
 |ID_COMPANY|ROLE|
