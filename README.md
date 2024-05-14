@@ -56,27 +56,26 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 
 
 ## COMPANY:
-- ID;
-- companyName;
-- companyCode;
-- CNPJ;
+
+| ID | CompanyName |
+|----|-------------|
+|CNPJ| CompanyCode |
 
 ## TASKS:
-- ID;
-- TITLE;
-- shortDescription;
-- longDescription;
-- endLineDate;
-- DIFFICULTY;
-- STATUS;
-- ID_USER;
+
+| ID | TITTLE |
+|----|--------|
+|ShortDescription | LongDescription |
+| EndLineDate | DIFFICULT |
+| STATUS | ID_USER |
 
 ## GIFTS:
-- ID;
-- giftName;
-- giftPrice;
-- CATEGORY;
-- ID_COMPANY;
+
+| ID | GiftName |
+|----|----------|
+| GiftPrice| CATEGORY |
+| ID_COMPANY |
+
 
 Em resumo, a tabela **User** são os dados necessários para o cadastro do usuário, a tabela **Company** são as empresas que desejam se cadastrar no Site, a tabela **Tasks** são as missões/tarefas que os funcionários executarão, e por fim a tabela **Gifts** na qual será a lojinha com presentes e recompensas para os funcionários que concluírem suas tarefas em um determinado período de tempo.
 
