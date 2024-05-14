@@ -38,5 +38,39 @@ Ao longo do projeto, nós iremos especificar com mais detalhes como esse "jogo" 
 
 Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, que é um editor gráfico de vetor e prototipagem, e projetos de design. Dito isso, aqui estão nossas tabelas desenvolvidas neste software:
 
-- USER:
+## USER:
+ - ID;
+ - USERNAME;
+ - FULLNAME;
+ - EMAIL;
+ - CPF;
+ - PASSWORD;
+ - ROLE;
+ - ID_COMPANY;
 
+## COMPANY:
+- ID;
+- companyName;
+- companyCode;
+- CNPJ;
+
+## TASKS:
+- ID;
+- TITLE;
+- shortDescription;
+- longDescription;
+- endLineDate;
+- DIFFICULTY;
+- STATUS;
+- ID_USER;
+
+## GIFTS:
+- ID;
+- giftName;
+- giftPrice;
+- CATEGORY;
+- ID_COMPANY;
+
+## INÍCIO DO DESENVOLVIMENTO FRONT END (PÁGINA INICIAL):
+
+A página inicial do projeto, ou o famoso FRONT END
