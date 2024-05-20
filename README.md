@@ -55,7 +55,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## USER:
 
 | ID: long | USERNAME: varchar(50) |
-|----: |----------: |
+| :----: | :----------: |
 |EMAIL: varchar(250) | FULLNAME: varchar(250) |
 |CPF: varchar(250) | PASSWORD: varchar(250) |
 |ID_COMPANY: longo |ROLE: varchar(250) |
@@ -64,13 +64,13 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## COMPANY:
 
 | ID: long | CompanyName: varchar(50) |
-|----: |-------------: |
+| :----: | :-------------: |
 |CNPJ: varchar(250) | CompanyCode: varchar(250) |
 
 ## TASKS:
 
 | ID | TITTLE |
-|----|--------|
+| :----: |: --------: |
 |ShortDescription | LongDescription |
 | EndLineDate | DIFFICULT |
 | STATUS | ID_USER |
@@ -78,7 +78,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## GIFTS:
 
 | ID | GiftName |
-|----|----------|
+| :----: |: ----------: |
 | GiftPrice| CATEGORY |
 | ID_COMPANY |
 
