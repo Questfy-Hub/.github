@@ -83,7 +83,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 | ID_COMPANY |
 
 
-Em resumo, a tabela ***User*** são os dados necessários para o cadastro do usuário, a tabela **Company** são as empresas que desejam se cadastrar no Site, a tabela **Tasks** são as missões/tarefas que os funcionários executarão, e por fim a tabela **Gifts** na qual será a lojinha com presentes e recompensas para os funcionários que concluírem suas tarefas em um determinado período de tempo.
+Em resumo, a tabela ***User*** são os dados necessários para o cadastro do usuário, a tabela ***Company*** são as empresas que desejam se cadastrar no Site, a tabela ***Tasks*** são as missões/tarefas que os funcionários executarão, e por fim a tabela ***Gifts*** na qual será a lojinha com presentes e recompensas para os funcionários que concluírem suas tarefas em um determinado período de tempo.
 
 ## INÍCIO DO DESENVOLVIMENTO FRONT END (PÁGINA INICIAL):
 
