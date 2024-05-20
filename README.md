@@ -63,7 +63,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 
 ## COMPANY:
 
-| ID: {c:yellow}long.{/c} | CompanyName: varchar(50) |
+| ID: {c:yellow}long amarelo.{/c} | CompanyName: varchar(50) |
 |----|-------------|
 |CNPJ: varchar(250) | CompanyCode: varchar(250) |
 
