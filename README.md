@@ -64,13 +64,13 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## COMPANY:
 
 | ID: long | CompanyName: varchar(50) |
-| :----: | :-------------: |
+| ----: | -------------: |
 |CNPJ: varchar(250) | CompanyCode: varchar(250) |
 
 ## TASKS:
 
 | ID | TITTLE |
-| :----: |: --------: |
+|----: |--------: |
 |ShortDescription | LongDescription |
 | EndLineDate | DIFFICULT |
 | STATUS | ID_USER |
