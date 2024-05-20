@@ -55,16 +55,16 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## USER:
 
 | ID: long | USERNAME: varchar(50) |
-| :----: | :----------: |
+| ---- | ---------- |
 |EMAIL: varchar(250) | FULLNAME: varchar(250) |
 |CPF: varchar(250) | PASSWORD: varchar(250) |
-|ID_COMPANY: longo |ROLE: varchar(250) |
+|ID_COMPANY: long |ROLE: varchar(250) |
 
 
 ## COMPANY:
 
 | ID: long | CompanyName: varchar(50) |
-| ----: | -------------: |
+| ---- | ------------- |
 |CNPJ: varchar(250) | CompanyCode: varchar(250) |
 
 ## TASKS:
