@@ -12,7 +12,7 @@
 
 [X] SITE FINALIZADO, TODOS OS INTEGRANTES TRABALHARAM ARDUAMENTE PARA DESENVOLVEREM ESSE SITE, PARA CONSEGUIR AJUDAR ÀS GRANDES E MICRO EMPRESAS;
 
-[] APRESENTAÇÃO DO SITE...;
+[ ] APRESENTAÇÃO DO SITE...
 
 ## INÍCIO DO PROJETO:
 
@@ -63,7 +63,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 
 ## COMPANY:
 
-| ID: long | CompanyName: varchar(50) |
+| ID: {c:yellow}long.{/c} | CompanyName: varchar(50) |
 |----|-------------|
 |CNPJ: varchar(250) | CompanyCode: varchar(250) |
 
