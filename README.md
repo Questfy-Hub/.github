@@ -70,7 +70,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## TASKS:
 
 | ID | TITTLE |
-|----: |--------: |
+|---- |-------- |
 |ShortDescription | LongDescription |
 | EndLineDate | DIFFICULT |
 | STATUS | ID_USER |
@@ -78,7 +78,7 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 ## GIFTS:
 
 | ID | GiftName |
-| :----: |: ----------: |
+| ---- | ---------- |
 | GiftPrice| CATEGORY |
 | ID_COMPANY |
 
