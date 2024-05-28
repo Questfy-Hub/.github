@@ -88,3 +88,7 @@ Em resumo, a tabela ***User*** são os dados necessários para o cadastro do usu
 ## INÍCIO DO DESENVOLVIMENTO FRONT END (PÁGINA INICIAL):
 
 A página inicial do projeto, ou o famoso FRONT END, foi desenvolvido pelo nosso Líder Gabriel, na qual foi utilizado a plataforma `Angular`, que é um Framework de código aberto para criação de aplicativos dinâmicos e interativos na Web.
+
+## BACK END (CODAGEM E DESENVOLVIMENTO DE FUNCIONALIDADES):
+
+O Back End ficou sob a responsabilidade do nosso integrante João, na qual todo o desenvolvimento das Tasks
