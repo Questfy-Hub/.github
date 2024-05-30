@@ -93,3 +93,4 @@ A página inicial do projeto, ou o famoso FRONT END, foi desenvolvido pelo nosso
 
 O Back End ficou sob a responsabilidade do nosso integrante João, na qual todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades de cada tabela, ficaram por conta dele. Além do desenvolvimento de um CRUD, para puxar as informações
 de todas as tabelas.
+Depois foi feito os métodos de Update `Put` e `Patch`
