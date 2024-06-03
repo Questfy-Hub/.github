@@ -116,7 +116,7 @@ Depois foi feito os métodos de Update `Put` e `Patch`, que são métodos de sol
 
 . CORPO DA SOLICITAÇÃO : O corpo da solicitação contém apenas os dados que devem ser atualizados, não a representação completa do recurso.
 
-# GETTASKBYUSERID
+# getTaskByUserId
 
 Depois nós temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD (Create, Read, Update, Delete). O propósito geral dessa função é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único. Em Java, a função `getTaskByUserId` é geralmente usada em um contexto onde você deseja recuperar uma ou mais tarefas associadas a um determinado usuário, identificando esse usuário por seu ID. A função normalmente faz parte de uma classe de serviço ou de um repositório que interage com um banco de dados ou uma estrutura de dados em memória.
 
