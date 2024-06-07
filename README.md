@@ -52,6 +52,8 @@ Ao longo do projeto, nós iremos especificar com mais detalhes como esse "jogo" 
 
 Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, que é um editor gráfico de vetor e prototipagem, e projetos de design. Dito isso, aqui estão nossas tabelas desenvolvidas neste software:
 
+ - [Figma](https://www.figma.com/design/LKDaf0rzLzMSLD59klIGF1/Projeto?node-id=0-1&t=nZyrTx9Zich0FVR3-0)
+
 ## USER:
 
 | ID: long | USERNAME: varchar(50) |
