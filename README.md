@@ -124,13 +124,14 @@ Embora a implementação específica possa variar de acordo com a linguagem de p
 
 - ENTRADA (Input):
 
-userId: Um identificador único (ID) do usuário para o qual se deseja recuperar as tarefas. Esse ID é geralmente um número inteiro ou uma string.
+ - UserId: Um identificador único (ID) do usuário para o qual se deseja recuperar as tarefas. Esse ID é geralmente um número inteiro ou uma string.
 
 - PROCESSO (Processing):
 
 - A função consulta a base de dados ou outro repositório de dados onde as tarefas são armazenadas.
 
-- Filtra as tarefas para retornar apenas aquelas que pertencem ao usuário cujo ID foi fornecido.
+- Filtra as tarefas para retornar apenas aquelas que pertencem ao usuário cujo ID foi fornecido.]
+
 
 - SAÍDA (Output):
 
