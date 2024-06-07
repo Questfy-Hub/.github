@@ -118,7 +118,7 @@ Depois foi feito os métodos de Update `Put` e `Patch`, que são métodos de sol
 
 - CORPO DA SOLICITAÇÃO : O corpo da solicitação contém apenas os dados que devem ser atualizados, não a representação completa do recurso.
 
-# getTaskByUserId
+# getTaskByUserId:
 
 Depois nós temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD (Create, Read, Update, Delete). O propósito geral dessa função é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único. Em Java, a função `getTaskByUserId` é geralmente usada em um contexto onde você deseja recuperar uma ou mais tarefas associadas a um determinado usuário, identificando esse usuário por seu ID. A função normalmente faz parte de uma classe de serviço ou de um repositório que interage com um banco de dados ou uma estrutura de dados em memória.
 
@@ -138,5 +138,7 @@ Embora a implementação específica possa variar de acordo com a linguagem de p
 - SAÍDA (Output):
 
 - Uma lista de tarefas associadas ao userId especificado. Cada tarefa na lista pode ser um objeto ou um dicionário contendo detalhes como o título da tarefa, descrição, data de criação, status, entre outros.
+
+# CRIPTOGRAFIA:
 
 Nós também utilizamos um sistema de criptografia para o nosso projeto. Essa criptografia consiste em uma prática essencial para proteger dados de usuários. A criptografia garante que mesmo que um banco de dados seja comprometido, as senhas não possam ser facilmente lidas ou utilizadas. Em Java, a criptografia de senhas pode ser feita de forma segura usando algoritmos de hashing com salt.
