@@ -1,6 +1,6 @@
 # PROJETO A3: SISTEMA DE GERENCIAMENTO DE TAREFAS GAMEFICADO:
 
-![Texto Alternativo](https://www.figma.com/proto/LKDaf0rzLzMSLD59klIGF1/Projeto?node-id=122-1016&t=IgIW3NcTVKqiILuW-0&scaling=min-zoom&page-id=122%3A695)
+(https://www.figma.com/proto/LKDaf0rzLzMSLD59klIGF1/Projeto?node-id=122-1016&t=IgIW3NcTVKqiILuW-0&scaling=min-zoom&page-id=122%3A695)
 
 **OBJETIVOS PRINCIPAIS**:
 
