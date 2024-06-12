@@ -47,7 +47,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## TELA CADASTRO:
 
-![Cadastro](https://github.com/Questfy-Hub/General_Informations/assets/132410269/de40e406-ea7a-4af4-a7f1-b7e7e696ce87
+![Cadastro](https://github.com/Questfy-Hub/General_Informations/assets/132410269/de40e406-ea7a-4af4-a7f1-b7e7e696ce87)
 
 
 ## BACK END (CODAGEM E DESENVOLVIMENTO DE FUNCIONALIDADES):
