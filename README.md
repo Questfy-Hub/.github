@@ -34,6 +34,9 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ![Requisitos Não Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/aa213d69-d34f-4f7d-991d-6eeb535fdede)
 
+## BANCO DE DADOS (DIAGRAMA):
+
+
 
 
 
