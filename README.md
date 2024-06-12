@@ -51,7 +51,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 ## INÍCIO DO DESENVOLVIMENTO FRONT END (PÁGINA INICIAL):
 
 A página inicial do projeto, ou o famoso FRONT END, foi desenvolvido pelo nosso Líder Gabriel, na qual foi utilizado a plataforma `Angular`, que é um Framework de código aberto para criação de aplicativos dinâmicos e interativos na Web. E esta parte do Front End
-será explicada de forma mais detalhada em outro Documento. **NÃO PRECISAM SE PREOCUPAR**, podem continuar com a programação normal.
+será explicada de forma mais detalhada em outro Documento.
 
 ## BACK END (CODAGEM E DESENVOLVIMENTO DE FUNCIONALIDADES):
 
