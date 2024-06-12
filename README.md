@@ -41,9 +41,9 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 - SISTEMA DE SQUADS
 
 
-## DIAGRAMA UML (DESIGN):
+## SITE DO PROJETO:
 
- - [Site do Projeto] (https://questfyhub.netlify.app/login)
+ - (https://questfyhub.netlify.app/login)
 
 
 
