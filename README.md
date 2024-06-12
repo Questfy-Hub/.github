@@ -22,7 +22,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## REQUISITOS FUNCIONAIS:
 
- ![Requisitos Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5958c323-c5b5-40f2-89fe-a09afa9f1174)
+![Requisitos Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/573e87eb-816a-4de4-982f-9a3cff539a82)
 
 ## REQUISITOS NÃO FUNCIONAIS:
 
