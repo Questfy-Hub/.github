@@ -37,7 +37,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 
 
-## TELA INICIAL:
+## TELA CADASTRO DE USUÁRIO:
 
 A página inicial do projeto, o FRONT END, foi desenvolvido na plataforma `Angular`, que é um Framework de código aberto para criação de aplicativos dinâmicos e interativos na Web. E esta parte do Front End
 será explicada de forma mais detalhada em outro Documento.
