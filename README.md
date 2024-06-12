@@ -53,7 +53,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ![Tarefas](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a485749a-7cea-4e4f-8ad2-bcd9c6f6e674)
 
-RANQUEAMENTO:
+## RANQUEAMENTO:
 
 ![Ranqueamento](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5a862cd5-c27f-47bd-9b18-2e67e633d7e0)
 
