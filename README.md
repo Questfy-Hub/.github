@@ -38,6 +38,8 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ![Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830)
 
+- Utilização de SQL para a criação desses Diagramas 
+
 
 
 
