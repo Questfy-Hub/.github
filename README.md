@@ -57,6 +57,10 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ![Ranqueamento](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5a862cd5-c27f-47bd-9b18-2e67e633d7e0)
 
+LOJA DE PONTOS:
+
+
+
 
 
 
