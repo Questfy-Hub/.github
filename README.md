@@ -1,27 +1,12 @@
-# PROJETO A3: SISTEMA DE GERENCIAMENTO DE TAREFAS GAMEFICADO:
+# QUESTFY HUB: SISTEMA DE GERENCIAMENTO DE TAREFAS GAMEFICADO:
 
 ![Trabalho](https://github.com/Questfy-Hub/General_Informations/assets/132410269/f87fd2d4-74dd-4247-875e-77bc4347defb)
 
-**OBJETIVOS PRINCIPAIS**:
 
-[X] REUNIÕES CONSTANTES PARA A SEPARAÇÃO E AVALIAÇÃO DE IDEIAS PARA O PROJETO;
- 
-[X] FINALIZAÇÃO DA AVALIAÇÃO, E INÍCIO DA DIVISÃO DE FUNÇÕES PARA OS MEMBROS DO GRUPO;
 
-[X] INÍCIO DO PROJETO, MUITAS E MUITAS PESQUISAS REALIZADAS PARA A IDEIA COMEÇAR A SER TRABALHADA;
+## INTRODUÇÃO:
 
-[X] REUNIÕES SEMANAIS PARA ANALISARMOS O DESENVOLVIMENTO DO SITE, E VERMOS ONDE PODÍAMOS MELHORAR, E ACRESCENTAR OU RETIRAR DETALHES;
-
-[X] SITE FINALIZADO, TODOS OS INTEGRANTES TRABALHARAM ARDUAMENTE PARA DESENVOLVEREM ESSE SITE, PARA CONSEGUIR AJUDAR ÀS GRANDES E MICRO EMPRESAS;
-
-[ ] APRESENTAÇÃO DO SITE...
-
-## INÍCIO DO PROJETO:
-
-A ideia primordial do nosso projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais.
-Esse site não será limitado apenas para empresas de grande porte, pois micro empresas, empresas autônomas também se beneficiarão do nosso site.
-O conceito de gameficar esse projeto partiu da afeição que o nosso grupo possui por jogos, principalmente jogos de RPG.
-Ao longo do projeto, nós iremos especificar com mais detalhes como esse "jogo" irá funcionar.
+A ideia primordial do nosso projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais. Seu conceito mais voltado para um Level Design Gameficado engloba toda a ideia do projeto, utilizando de Ranqueamento de usuário, Ranqueamento de pontos, Níveis de dificuldade das Tarefas, para que o usuário final(os funcionários das empresas), tenham uma experiência completamente inovadora no seu ambiente profissional. O sistema do site funciona com: A distribuição das Tarefas para os usuários (Definido pelos Gestores), Nível de dificuldade das Tarefas (Definido também pelos Gestores), Distribuição de Pontos das Tarefas (Pontuação Pré-Estabelecida, mas suscetível a mudanças por parte da empresa)
 
 ## ESTRUTURAS UTILIZADAS:
 
@@ -29,6 +14,8 @@ Ao longo do projeto, nós iremos especificar com mais detalhes como esse "jogo" 
 - BACK END: `JAVA`, `SPRING BOOT`
 - BANCO DE DADOS: `POSTGRESQL`
 - DESIGN: `FIGMA`
+
+## DISTRIBUIÇÃO DOS REQUISITOS:
 
 ## REQUISITOS FUNCIONAIS:
 
@@ -50,9 +37,7 @@ Ao longo do projeto, nós iremos especificar com mais detalhes como esse "jogo" 
 - SISTEMA DE HIERARQUIA
 - SISTEMA DE SQUADS
 
-## DIAGRAMA UML
-
-Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, que é um editor gráfico de vetor e prototipagem, e projetos de design. Dito isso, aqui estão nossas tabelas desenvolvidas neste software:
+## DIAGRAMA UML (DESIGN):
 
  - [Figma](https://www.figma.com/design/LKDaf0rzLzMSLD59klIGF1/Projeto?node-id=0-1&t=nZyrTx9Zich0FVR3-0)
 
@@ -87,7 +72,6 @@ Nosso Site, como descrito anteriormente, a parte do desing foi feita no Figma, q
 | ID_COMPANY: long |
 
 
-Em resumo, a tabela ***User*** são os dados necessários para o cadastro do usuário, a tabela ***Company*** são as empresas que desejam se cadastrar no Site, a tabela ***Tasks*** são as missões/tarefas que os funcionários executarão, e por fim a tabela ***Gifts*** na qual será a lojinha com presentes e recompensas para os funcionários que concluírem suas tarefas em um determinado período de tempo.
 
 ## INÍCIO DO DESENVOLVIMENTO FRONT END (PÁGINA INICIAL):
 
