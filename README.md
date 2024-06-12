@@ -51,7 +51,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## TAREFAS: 
 
-
+![Tarefas](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a485749a-7cea-4e4f-8ad2-bcd9c6f6e674)
 
 
 ## BACK END (CODAGEM E DESENVOLVIMENTO DE FUNCIONALIDADES):
