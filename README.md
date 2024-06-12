@@ -26,12 +26,13 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## REQUISITOS NÃO FUNCIONAIS:
 
-![Requisitos Não Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/f6fbbf33-0746-459d-b474-d8057a3ca084)
+![Requisitos Não Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a96b7fe0-adc8-4651-a4fd-6fa5b89f2e6f)
 
 
 ## SITE DO PROJETO:
 
  - (https://questfyhub.netlify.app/login)
+
 
 
 
