@@ -45,9 +45,9 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## BACK END (CODAGEM E DESENVOLVIMENTO DE FUNCIONALIDADES):
 
-O Back End ficou sob a responsabilidade do nosso integrante João, na qual todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades de cada tabela, ficaram por conta dele. Além do desenvolvimento de um CRUD, para puxar as informações
+O Back End teve todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades presentes nelas . Além do desenvolvimento de um CRUD, para puxar as informações
 de todas as tabelas.
-Depois foi feito os métodos de Update `Put` e `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful, mas têm diferenças importantes em como eles atualizam os dados.
+Depois, foi utilizado os métodos de Update `Put` e `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful, mas têm diferenças importantes em como eles atualizam os dados.
 
 # MÉTODO PUT:
 
