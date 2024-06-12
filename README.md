@@ -17,7 +17,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 - DESIGN: `FIGMA`
 
 
-- DISTRIBUIÇÃO DOS REQUISITOS:
+## DISTRIBUIÇÃO DOS REQUISITOS:
 
 
 ## REQUISITOS FUNCIONAIS:
@@ -39,6 +39,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 - INTERFACE INTUITIVA E INTERATIVA
 - SISTEMA DE HIERARQUIA
 - SISTEMA DE SQUADS
+
 
 ## DIAGRAMA UML (DESIGN):
 
