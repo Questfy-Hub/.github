@@ -12,7 +12,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## SITE DO PROJETO:
 
- - (https://questfyhub.netlify.app/login)
+ - [Questfy Hub](https://questfyhub.netlify.app/login)
 
 
 ## ESTRUTURAS UTILIZADAS:
