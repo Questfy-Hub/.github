@@ -67,9 +67,9 @@ Depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos
 
 # getTaskByUserId:
 
-Depois nós temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD (Create, Read, Update, Delete). O propósito geral dessa função no nosso projeto é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único.
+Depois temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD (Create, Read, Update, Delete). O propósito geral dessa função no nosso projeto é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único.
 
 
 # CRIPTOGRAFIA:
 
-Nós também utilizamos um sistema de criptografia para o embaralhamento das informações sensíveis do usuário. Essa criptografia consiste em uma prática essencial para proteger dados de usuários.
+Utilizamos também  um sistema de criptografia para o embaralhamento das informações sensíveis do usuário. Essa criptografia consiste em uma prática essencial para proteger dados de usuários.
