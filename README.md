@@ -9,6 +9,12 @@
 A ideia primordial do nosso projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais. Seu conceito mais voltado para um Level Design Gameficado engloba toda a ideia do projeto, utilizando de Ranqueamento de usuário, Ranqueamento de pontos, Níveis de dificuldade das Tarefas, para que o usuário final(os funcionários das empresas), tenham uma experiência completamente inovadora no seu ambiente profissional. O sistema do site funciona com o consumo de uma API, desenvolvida no Angular, depois da entrada no Site, temos as divisões: A distribuição das Tarefas para os usuários (Definido pelos Gestores), Nível de dificuldade das Tarefas (Definido também pelos Gestores), Distribuição de Pontos das Tarefas (Pontuação Pré-Estabelecida, mas suscetível a mudanças por parte das empresas). Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, com a implementação de `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. Utilizamos algoritmos de ordenação (Quick Sort) para a 
 
 
+
+## SITE DO PROJETO:
+
+ - (https://questfyhub.netlify.app/login)
+
+
 ## ESTRUTURAS UTILIZADAS:
 
 - FRONT END: `ANGULAR`
@@ -27,11 +33,6 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 ## REQUISITOS NÃO FUNCIONAIS:
 
 ![Requisitos Não Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/aa213d69-d34f-4f7d-991d-6eeb535fdede)
-
-
-## SITE DO PROJETO:
-
- - (https://questfyhub.netlify.app/login)
 
 
 
