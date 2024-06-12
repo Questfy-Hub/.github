@@ -43,7 +43,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## DIAGRAMA UML (DESIGN):
 
- - [Figma](https://www.figma.com/design/LKDaf0rzLzMSLD59klIGF1/Projeto?node-id=0-1&t=nZyrTx9Zich0FVR3-0)
+ - [Site do Projeto] (https://questfyhub.netlify.app/login)
 
 
 
