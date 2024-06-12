@@ -22,14 +22,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## REQUISITOS FUNCIONAIS:
 
-- CADASTRO DE USUÁRIO
-- CADASTRO DA EMPRESA
-- CADASTRO DE PRÊMIOS
-- GERENCIAMENTO DE TAREFAS
-- GERENCIAMENTO DE PREMIAÇÕES
-- VISUALIZAÇÃO KANBAN
-- VISUALIZAÇÃO EM CALENDÁRIO
-- LOJA DE PONTOS
+- ![Requisitos Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5958c323-c5b5-40f2-89fe-a09afa9f1174)
 
 ## REQUISITOS NÃO FUNCIONAIS:
 
