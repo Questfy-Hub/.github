@@ -22,16 +22,11 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ## REQUISITOS FUNCIONAIS:
 
-- ![Requisitos Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5958c323-c5b5-40f2-89fe-a09afa9f1174)
+ ![Requisitos Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5958c323-c5b5-40f2-89fe-a09afa9f1174)
 
 ## REQUISITOS NÃO FUNCIONAIS:
 
-- AUTENTIFICAÇÃO DE USUÁRIO
-- CRIPTOGRAFIA DE DADOS
-- DESIGN REATIVO
-- INTERFACE INTUITIVA E INTERATIVA
-- SISTEMA DE HIERARQUIA
-- SISTEMA DE SQUADS
+![Requisitos Não Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/f6fbbf33-0746-459d-b474-d8057a3ca084)
 
 
 ## SITE DO PROJETO:
