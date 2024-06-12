@@ -60,7 +60,7 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 LOJA DE PONTOS:
 
 
-
+![Loja de Pontos](https://github.com/Questfy-Hub/General_Informations/assets/132410269/e0b02b44-f82a-435e-ba6a-6aef77120ceb)
 
 
 
