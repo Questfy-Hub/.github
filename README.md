@@ -6,7 +6,8 @@
 
 ## INTRODUÇÃO:
 
-A ideia primordial do nosso projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais. Seu conceito mais voltado para um Level Design Gameficado engloba toda a ideia do projeto, utilizando de Ranqueamento de usuário, Ranqueamento de pontos, Níveis de dificuldade das Tarefas, para que o usuário final(os funcionários das empresas), tenham uma experiência completamente inovadora no seu ambiente profissional. O sistema do site funciona com: A distribuição das Tarefas para os usuários (Definido pelos Gestores), Nível de dificuldade das Tarefas (Definido também pelos Gestores), Distribuição de Pontos das Tarefas (Pontuação Pré-Estabelecida, mas suscetível a mudanças por parte da empresa)
+A ideia primordial do nosso projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais. Seu conceito mais voltado para um Level Design Gameficado engloba toda a ideia do projeto, utilizando de Ranqueamento de usuário, Ranqueamento de pontos, Níveis de dificuldade das Tarefas, para que o usuário final(os funcionários das empresas), tenham uma experiência completamente inovadora no seu ambiente profissional. O sistema do site funciona com: A distribuição das Tarefas para os usuários (Definido pelos Gestores), Nível de dificuldade das Tarefas (Definido também pelos Gestores), Distribuição de Pontos das Tarefas (Pontuação Pré-Estabelecida, mas suscetível a mudanças por parte das empresas). Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, com a implementação de `PostGreSQL` para a conexão dos bancos de dados com o site. O visual do site foi criado no `Figma`
+
 
 ## ESTRUTURAS UTILIZADAS:
 
@@ -15,7 +16,9 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 - BANCO DE DADOS: `POSTGRESQL`
 - DESIGN: `FIGMA`
 
-## DISTRIBUIÇÃO DOS REQUISITOS:
+
+- DISTRIBUIÇÃO DOS REQUISITOS:
+
 
 ## REQUISITOS FUNCIONAIS:
 
@@ -41,35 +44,6 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
  - [Figma](https://www.figma.com/design/LKDaf0rzLzMSLD59klIGF1/Projeto?node-id=0-1&t=nZyrTx9Zich0FVR3-0)
 
-## USER:
-
-| ID: long | USERNAME: varchar(50) |
-| ---- | ---------- |
-|EMAIL: varchar(250) | FULLNAME: varchar(250) |
-|CPF: varchar(250) | PASSWORD: varchar(250) |
-|ID_COMPANY: long |ROLE: varchar(250) |
-
-
-## COMPANY:
-
-| ID: long | CompanyName: varchar(50) |
-| ---- | ------------- |
-|CNPJ: varchar(250) | CompanyCode: varchar(250) |
-
-## TASKS:
-
-| ID: long | TITTLE: varchar(50) |
-|---- |-------- |
-|ShortDescription: varchar(250) | LongDescription: varchar(250) |
-| EndLineDate: varchar(250) | DIFFICULT: integer |
-| STATUS: varchar(50) | ID_USER: long |
-
-## GIFTS:
-
-| ID: long | GiftName: varchar(50) |
-| ---- | ---------- |
-| GiftPrice: float | CATEGORY: varchar(250) |
-| ID_COMPANY: long |
 
 
 
