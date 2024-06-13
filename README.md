@@ -81,7 +81,7 @@ dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 O Back End teve todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades presentes nelas . Além do desenvolvimento de um CRUD (Create, Read, Update, Delete) para puxar as informações
 de todas as tabelas.
-Depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful.
+Logo, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful.
 
 # MÉTODO PUT:
 
@@ -94,7 +94,7 @@ Depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos
 
 # getTaskByUserId:
 
-Depois temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD. O propósito geral dessa função no nosso projeto é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único.
+Depois temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD. O propósito geral dessa função neste projeto é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único.
 
 
 # CRIPTOGRAFIA:
