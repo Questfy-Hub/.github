@@ -1,4 +1,4 @@
-# QUESTFY HUB: SISTEMA DE GERENCIAMENTO DE TAREFAS GAMEFICADO:
+# 🖥️ QUESTFY HUB: SISTEMA DE GERENCIAMENTO DE TAREFAS GAMEFICADO:
 
 ![Trabalho](https://github.com/Questfy-Hub/General_Informations/assets/132410269/f87fd2d4-74dd-4247-875e-77bc4347defb)
 
@@ -15,7 +15,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
  - [Questfy Hub](https://questfyhub.netlify.app/login)
 
 
-## ESTRUTURAS UTILIZADAS:
+## 🛠️ ESTRUTURAS UTILIZADAS:
 
 - FRONT END: `ANGULAR`
 - BACK END: `JAVA`, `SPRING BOOT`
@@ -38,7 +38,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 
 ![Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830)
 
-- Utilização de SQL para a criação desses Diagramas.
+> Utilização de SQL para a criação desses Diagramas.
 
 
 
@@ -49,31 +49,31 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 
 ![Cadastro](https://github.com/Questfy-Hub/General_Informations/assets/132410269/de40e406-ea7a-4af4-a7f1-b7e7e696ce87)
 
-- As informações de cadastro ficam armazenadas no banco de dados criado através do SQL, especificamente na Tabela **User**, e a opção de colocar a foto foi desenvolvida 
+> As informações de cadastro ficam armazenadas no banco de dados criado através do SQL, especificamente na Tabela **User**, e a opção de colocar a foto foi desenvolvida 
 
 ## TAREFAS: 
 
 ![Tarefas](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a485749a-7cea-4e4f-8ad2-bcd9c6f6e674)
 
-- Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a praticamente 2 meses, para serem concluídas,
+> Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a praticamente 2 meses, para serem concluídas,
 dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
-- Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressivamente, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
+> Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressivamente, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
 
-- Por exemplo, uma tarefa de nível x, que demora cerca de 1 semana para ser finalizada, quando o prazo dela acabar, os pontos dela progressivamente diminuirão, equivalente a quantidade de dias que ela estava atribuída, até que chegue em 1 ponto, e não passará disso.
+> Por exemplo, uma tarefa de nível x, que demora cerca de 1 semana para ser finalizada, quando o prazo dela acabar, os pontos dela progressivamente diminuirão, equivalente a quantidade de dias que ela estava atribuída, até que chegue em 1 ponto, e não passará disso.
 
 ## RANQUEAMENTO:
 
 ![Ranqueamento](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5a862cd5-c27f-47bd-9b18-2e67e633d7e0)
 
-- Esta aba apresenta as informações do funcionário, similar aos "Status" do personagem de um jogo, contendo seus pontos, o ranking dos melhores funcionários a completar o maior número de tarefas, acessso a um item especial, na qual é necessário uma elevada pontuação para adquirí-la.
+> Esta aba apresenta as informações do funcionário, similar aos "Status" do personagem de um jogo, contendo seus pontos, o ranking dos melhores funcionários a completar o maior número de tarefas, acessso a um item especial, na qual é necessário uma elevada pontuação para adquirí-la.
 
 ## LOJA DE PONTOS:
 
 
 ![Loja de Pontos](https://github.com/Questfy-Hub/General_Informations/assets/132410269/e0b02b44-f82a-435e-ba6a-6aef77120ceb)
 
-- A Loja De Pontos foi pensada como uma bonificação para os usuários adquirirem recompensas por suas tarefas concluídas, podendo resgatar brindes variados, na qual fica a parte da empresa o que ela irá adicionar a loja.
+> A Loja De Pontos foi pensada como uma bonificação para os usuários adquirirem recompensas por suas tarefas concluídas, podendo resgatar brindes variados, na qual fica a parte da empresa o que ela irá adicionar a loja.
 
 
 
