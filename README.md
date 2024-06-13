@@ -49,20 +49,31 @@ A ideia primordial do nosso projeto é o desenvolvimento de um site para a organ
 
 ![Cadastro](https://github.com/Questfy-Hub/General_Informations/assets/132410269/de40e406-ea7a-4af4-a7f1-b7e7e696ce87)
 
+- As informações do usuário estão armazenadas 
+
 ## TAREFAS: 
 
 ![Tarefas](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a485749a-7cea-4e4f-8ad2-bcd9c6f6e674)
 
+- Quando as tarefas forem geradas para os funcionários, elas possuirão um tempo limite para serem executadas, sendo de 1 hora de execução, a praticamente 2 meses, para serem concluídas,
+dependendo do nível de dificuldade que for imposta para aquela tarefa.
+
+- Outro detalhe são as colunas na qual as tarefas estão presentes, onde elas funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressiva, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
+
+- Por exemplo, uma tarefa de nível x, que demora cerca de 1 semana para ser finalizada, quando o prazo dela acabar, os pontos dela progressivamente diminuirão, equivalente a quantidade de dias que ela estava atribuída, até que chegue em 1 ponto, e não passará disso.
+
 ## RANQUEAMENTO:
 
 ![Ranqueamento](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5a862cd5-c27f-47bd-9b18-2e67e633d7e0)
+
+- 
 
 ## LOJA DE PONTOS:
 
 
 ![Loja de Pontos](https://github.com/Questfy-Hub/General_Informations/assets/132410269/e0b02b44-f82a-435e-ba6a-6aef77120ceb)
 
-
+- A Loja De Pontos foi pensada como uma bonificação para os usuários adquirirem recompensas por suas tarefas concluídas, 
 
 
 
