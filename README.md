@@ -66,7 +66,7 @@ dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 ![Ranqueamento](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5a862cd5-c27f-47bd-9b18-2e67e633d7e0)
 
-- Esta aba apresenta as informações do funcionário, similar aos "Status" do personagem de um jogo, contendo seus pontos, tarefas próximas do vencimento, novas tarefas.
+- Esta aba apresenta as informações do funcionário, similar aos "Status" do personagem de um jogo, contendo seus pontos, o ranking dos melhores funcionários a completar o maior número de tarefas, acessso a um item especial, na qual é necessário uma elevada pontuação para adquirí-la.
 
 ## LOJA DE PONTOS:
 
