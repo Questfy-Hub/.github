@@ -58,7 +58,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 - Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a praticamente 2 meses, para serem concluídas,
 dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
-- Outro detalhe são as colunas na qual as tarefas estão presentes, onde elas funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressivamente, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
+- Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressivamente, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
 
 - Por exemplo, uma tarefa de nível x, que demora cerca de 1 semana para ser finalizada, quando o prazo dela acabar, os pontos dela progressivamente diminuirão, equivalente a quantidade de dias que ela estava atribuída, até que chegue em 1 ponto, e não passará disso.
 
@@ -81,15 +81,15 @@ dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 O Back End teve todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades presentes nelas . Além do desenvolvimento de um CRUD (Create, Read, Update, Delete) para puxar todas as informações
 do [Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830).
-Logo depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful.
+Logo depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor.
 
 # MÉTODO PUT:
 
-- PROPÓSITO : O método `PUT` é usado para atualizar ou substituir um recurso completo no servidor.
+- PROPÓSITO : O método `PUT` foi utilizado para fazer a atualização geral das Tasks, alterando seu status, pontuação, dificuldade.
 
 # MÉTODO PATCH:
 
-- PROPÓSITO : O método `PATCH` é usado para aplicar atualizações parciais a um recurso.
+- PROPÓSITO : O método `PATCH` foi utlizado para alterações parciais nas Tasks, sendo mais para troca de status, por exemplo: De Pendente, para Aprovado.
 
 
 # getTaskByUserId:
