@@ -73,7 +73,7 @@ dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 ![Loja de Pontos](https://github.com/Questfy-Hub/General_Informations/assets/132410269/e0b02b44-f82a-435e-ba6a-6aef77120ceb)
 
-- A Loja De Pontos foi pensada como uma bonificação para os usuários adquirirem recompensas por suas tarefas concluídas, 
+- A Loja De Pontos foi pensada como uma bonificação para os usuários adquirirem recompensas por suas tarefas concluídas, podendo resgatar brindes variados, na qual fica a parte da empresa o que ela irá adicionar a loja.
 
 
 
