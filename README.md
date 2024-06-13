@@ -77,7 +77,7 @@ dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 
 
-## BACK END (CODAGEM E DESENVOLVIMENTO DE FUNCIONALIDADES):
+## BACK END (DESENVOLVIMENTO DE FUNCIONALIDADES):
 
 O Back End teve todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades presentes nelas . Além do desenvolvimento de um CRUD (Create, Read, Update, Delete) para puxar todas as informações
 do [Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830).
