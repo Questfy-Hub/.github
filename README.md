@@ -38,7 +38,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 
 ![Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830)
 
-- Utilização de SQL para a criação desses Diagramas 
+- Utilização de SQL para a criação desses Diagramas.
 
 
 
@@ -81,7 +81,7 @@ dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 O Back End teve todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades presentes nelas . Além do desenvolvimento de um CRUD (Create, Read, Update, Delete) para puxar todas as informações
 do [Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830).
-Logo, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful.
+Logo depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor. Ambos são usados em APIs RESTful.
 
 # MÉTODO PUT:
 
