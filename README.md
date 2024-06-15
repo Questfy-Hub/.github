@@ -1,102 +1,97 @@
-# 🖥️ QUESTFY HUB: SISTEMA DE GERENCIAMENTO DE TAREFAS GAMEFICADO:
+# 🖥️ QUESTFY HUB
 
-![Trabalho](https://github.com/Questfy-Hub/General_Informations/assets/132410269/f87fd2d4-74dd-4247-875e-77bc4347defb)
+A plataforma _**QuestfyHub**_ consiste em um gerenciador de tarefas com elementos de gamificação para utilização empresarial. O projeto foi criado como um projeto semestral da UC "Estrutura de Dados e Análise de Algoritmos".
+
+## :rocket: Pré-requisitos
+Antes de começar, certifique-se de que todos os pré-requisitos abaixo sejam atendidos, para que seja possivel a utilização local do projeto:
+- Java 17
+- Banco de dados local **PostgreSQL**
+- _(Opcional)_ Angular 17
+
+> Observação: O terceiro requisito se tornou opcional pois agora o Front-End do projeto está sendo hospedado na plataforma Netlify.
+>
+> Link de acesso para o projeto: [QuestfyHub](https://questfyhub.netlify.app)
+>
+> Para visualização utilize o login de teste:
+> - wwonka@gmail.com | 1234
 
 
+## :wrench: Utilização
+Após realizada a cópia do repositório, algumas coisas devem ser feitas antes. Como o projeto foi inicialmente desenvolvido para rodar em ambiente local, algumas configurações devem ser feitas antes de rodar o programa:
+<details>
+    <summary>Postgresql</summary><!--TODO: Colocar imagens-->
+    <p>
+        <ol>
+            <li>
+                <p>Crie um novo banco de dados dentro do postgresql;</p>
+                <img src="https://github.com/Questfy-Hub/General_Informations/assets/146457912/7d812f68-5571-48b0-989e-636a09814b8d">
+            </li>
+            <br>
+            <li>Baixe o banco modelo em <a>Links Uteis</a>;</li>
+            <br>
+            <li>
+                <p>Importe o banco modelo para seu banco de dados.</p>
+                <img src="https://github.com/Questfy-Hub/General_Informations/assets/146457912/562c45b2-d519-4cf8-8cbd-4ce5daf04272">
+                <img src="https://github.com/Questfy-Hub/General_Informations/assets/146457912/e003b94a-c4ff-4a05-8ee6-9dd667cd4da9">
+            </li>
+        </ol>
+    </p>
+</details>
 
-## INTRODUÇÃO:
+<details>
+    <summary>Back-End</summary>
+    <p>
+        <ol>
+            <li>Vá ao arquivo application.proprieties;</li>
+            <br>
+            <li>
+                Altere as informações dentro de [ ];
+                <img src="https://github.com/Questfy-Hub/General_Informations/assets/146457912/03a73727-a598-4b8a-8ae3-fc9bc8478d4b">
+            </li>
+        </ol>
+    </p>
+</details>
 
-A ideia primordial deste projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais. Seu conceito mais voltado para um Level Design Gameficado engloba toda a ideia do projeto, utilizando de Ranqueamento de usuário, Ranqueamento de pontos, Níveis de Dificuldade das Tarefas, para que o Usuário Final(os funcionários das empresas), tenham uma experiência completamente inovadora no seu ambiente profissional. O sistema do site funciona com o consumo de uma API, desenvolvida no Angular. Depois do cadastramento no Site, temos as divisões presentes nele: Distribuição das Tarefas para os usuários (Definido pelos Gestores), Nível de Dificuldade das Tarefas (Definido também pelos Gestores), Distribuição de Pontos das Tarefas (Pontuação Pré-Estabelecida, mas suscetível a mudanças por parte das empresas), Loja de Pontos para os funcionários consumirem seus pontos adquiridos pelas tarefas concluídas. Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, com a implementação de `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. Utilizamos o algoritmo de ordenação `Quick Sort` para o ranking(Ranqueamento), e também o método de recursividade para as tarefas.
+## :globe_with_meridians: Sobre o Projeto
 
+Conforme informado anteriormente, a ideia primordial deste projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais que adotam metodologias ágeis. As principais funcionalidades presentes dentro do projeto são:
+- Criação e distribuição das tarefas
+- Distribuição de pontos por tarefas
+- Loja de Pontos
+- Visualização de relatorios mensais por funcionario (Gestor)
+  
 
+ Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, utilizando o algoritmo de ordenação `Quick Sort` para o rankeamendo de usuários. Foi implementado o banco de dados `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. 
 
-## SITE DO PROJETO:
-
- - [Questfy Hub](https://questfyhub.netlify.app/login)
-
-
-## 🛠️ ESTRUTURAS UTILIZADAS:
 
 - FRONT END: `ANGULAR`
-- BACK END: `JAVA`, `SPRING BOOT`
+- BACK END: `JAVA`, `SPRING BOOT`, `JPA`
 - BANCO DE DADOS: `POSTGRESQL`
 - DESIGN: `FIGMA`
 
+## Levantamento de Requisitos
+| Requisitos Funcionais      | Requisitos não Funcionais          |
+|:-------------------------- |----------------------------------: |
+| Gerenciamento de Tarefas   | Criptografia de dados              |
+| Visualização Kanban        | Autenticação de Usuário            |
+| Cadastro de Usuário        | Interface intuitiva e Interativa   |
+| Loja de Pontos             |                                    |
 
-## DISTRIBUIÇÃO DOS REQUISITOS:
 
-
-## REQUISITOS FUNCIONAIS:
-
-![Requisitos Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/573e87eb-816a-4de4-982f-9a3cff539a82)
-
-## REQUISITOS NÃO FUNCIONAIS:
-
-![Requisitos Não Funcionais](https://github.com/Questfy-Hub/General_Informations/assets/132410269/aa213d69-d34f-4f7d-991d-6eeb535fdede)
 
 ## BANCO DE DADOS (DIAGRAMA):
 
-![Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830)
+![Diagrama1](https://github.com/Questfy-Hub/General_Informations/assets/146457912/2ba59dd9-06ab-41b9-9b2f-2cfd28f732a5)
 
-> Utilização de SQL para a criação desses Diagramas.
-
-
+> Para criar o diagrama do banco de dados foi utilizado a ferramenta SQL WorkBench
 
 
-
-
-## CADASTRO:
-
-![Cadastro](https://github.com/Questfy-Hub/General_Informations/assets/132410269/de40e406-ea7a-4af4-a7f1-b7e7e696ce87)
-
-> As informações de cadastro ficam armazenadas no banco de dados criado através do SQL, especificamente na Tabela **User**, e a opção de colocar a foto foi uma peculiaridade que utilizamos para deixar nosso site o mais profissional possível.
-
-## TAREFAS: 
-
-![Tarefas](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a485749a-7cea-4e4f-8ad2-bcd9c6f6e674)
-
-> Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a 2 meses, para serem concluídas,
-dependendo do nível de dificuldade que for imposta para aquela tarefa.
-
-> Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos gradativa a medida que o tempo da tarefa se expirar, mas nunca chegará a 0, para que os funcionários sempre sejam incentivados a concluírem no tempo determinado.
-
-> Por exemplo, uma tarefa de nível x, que demora cerca de 1 semana para ser finalizada, quando o prazo dela acabar, os pontos dela progressivamente diminuirão, equivalente a quantidade de dias que ela estava atribuída, até que chegue em 1 ponto, e não passará disso.
-
-## RANQUEAMENTO:
-
-![Ranqueamento](https://github.com/Questfy-Hub/General_Informations/assets/132410269/5a862cd5-c27f-47bd-9b18-2e67e633d7e0)
-
-> Esta aba apresenta as informações do funcionário, similar aos "Status" do personagem de um jogo, contendo seus pontos, o ranking dos melhores funcionários a completar o maior número de tarefas, acessso a um item especial, na qual é necessário uma elevada pontuação para adquirí-la, e principalmente ficam as novas tarefas e as que ainda precisam ser finalizadas, para que o funcionário tenha um controle sobre o que ele necessariamente precisa priorizar em finalizar.
-
-## LOJA DE PONTOS:
-
-
-![Loja de Pontos](https://github.com/Questfy-Hub/General_Informations/assets/132410269/e0b02b44-f82a-435e-ba6a-6aef77120ceb)
-
-> A Loja De Pontos foi pensada como uma bonificação para os usuários adquirirem recompensas por suas tarefas concluídas, podendo resgatar brindes variados, na qual fica a parte da empresa o que ela irá adicionar a loja.
+## ✏️ Colaboradores
+- Gabriel Evaristo
+- Vinicius Madureira
+- João Paulo
+- Israel Fonseca
 
 
 
-## BACK END (DESENVOLVIMENTO DE FUNCIONALIDADES):
 
-O Back End teve todo o desenvolvimento das Tasks, as ligações entre as tabelas, as funcionalidades presentes nelas . Além do desenvolvimento de um CRUD (Create, Read, Update, Delete) para puxar todas as informações
-do [Diagrama](https://github.com/Questfy-Hub/General_Informations/assets/132410269/0f5f99ed-3c72-48de-adc6-fb63df01c830).
-Logo depois, foi utilizado os métodos de Update `Put` and `Patch`, que são métodos de solicitação HTTP usados para atualizar recursos em um servidor.
-
-# MÉTODO PUT:
-
-- PROPÓSITO : O método `PUT` foi utilizado para fazer a atualização geral das Tasks, alterando seu status, pontuação, dificuldade.
-
-# MÉTODO PATCH:
-
-- PROPÓSITO : O método `PATCH` foi utlizado para alterações parciais nas Tasks, sendo mais para troca de status, por exemplo: De Pendente, para Aprovado.
-
-
-# getTaskByUserId:
-
-Depois temos a função `getTaskByUserId`, na qual é uma função comum em sistemas de gerenciamento de tarefas, especialmente em aplicações de software que seguem o paradigma do CRUD. O propósito geral dessa função neste projeto é buscar e retornar uma lista de tarefas associadas a um usuário específico, identificando-o pelo seu ID único.
-
-
-# CRIPTOGRAFIA:
-
-Utilizamos também  um sistema de criptografia para o embaralhamento das informações sensíveis do usuário. Essa criptografia consiste em uma prática essencial para proteger dados de usuários.
