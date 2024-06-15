@@ -49,7 +49,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 
 ![Cadastro](https://github.com/Questfy-Hub/General_Informations/assets/132410269/de40e406-ea7a-4af4-a7f1-b7e7e696ce87)
 
-> As informações de cadastro ficam armazenadas no banco de dados criado através do SQL, especificamente na Tabela **User**, e a opção de colocar a foto foi desenvolvida 
+> As informações de cadastro ficam armazenadas no banco de dados criado através do SQL, especificamente na Tabela **User**, e a opção de colocar a foto foi uma peculiaridade que utilizamos para deixar nosso site o mais profissional possível.
 
 ## TAREFAS: 
 
