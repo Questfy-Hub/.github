@@ -55,7 +55,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 
 ![Tarefas](https://github.com/Questfy-Hub/General_Informations/assets/132410269/a485749a-7cea-4e4f-8ad2-bcd9c6f6e674)
 
-> Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a praticamente 2 meses, para serem concluídas,
+> Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a 2 meses, para serem concluídas,
 dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
 > Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressivamente, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
