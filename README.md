@@ -58,7 +58,7 @@ A ideia primordial deste projeto é o desenvolvimento de um site para a organiza
 > Quando as tarefas forem geradas para os funcionários, elas possuirão uma data limite para serem executadas, sendo de 1 hora de execução, a 2 meses, para serem concluídas,
 dependendo do nível de dificuldade que for imposta para aquela tarefa.
 
-> Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos progressivamente, a medida que o tempo da tarefa se expira, mas nunca chegará a 0, para que os funcionários sejam incentivados a concluírem no tempo determinado.
+> Outro detalhe são as colunas na qual as tarefas estão presentes, utilizando de uma interface interativa, funcionam como uma medida de progressão, e todas as vezes que ocorrer um avanço da tarefa, ela irá passar de um estado para o outro, não somente isso, como terá uma diminuição de pontos gradativa a medida que o tempo da tarefa se expirar, mas nunca chegará a 0, para que os funcionários sempre sejam incentivados a concluírem no tempo determinado.
 
 > Por exemplo, uma tarefa de nível x, que demora cerca de 1 semana para ser finalizada, quando o prazo dela acabar, os pontos dela progressivamente diminuirão, equivalente a quantidade de dias que ela estava atribuída, até que chegue em 1 ponto, e não passará disso.
 
