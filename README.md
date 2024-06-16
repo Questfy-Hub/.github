@@ -14,7 +14,7 @@ Antes de começar, certifique-se de que todos os pré-requisitos abaixo sejam at
 > Link de acesso para o projeto: [QuestfyHub](https://questfyhub.netlify.app)
 >
 > Para visualização utilize o login de teste:
-> - wwonka@gmail.com | 1234
+> - Usuário: wwonka@gmail.com | Senha: 1234
 
 
 ## :wrench: Utilização
