@@ -93,7 +93,7 @@ Conforme informado anteriormente, a ideia primordial deste projeto é o desenvol
 | Alta | Efetuar a compra dos produtos  |
 | Média | Visualizar e editar informações da sua conta | 
 
-### Requisito não funcional
+### Requisitos não Funcionais
 
 | Prioridade | Requisito |
 | :------ | ----------- |
