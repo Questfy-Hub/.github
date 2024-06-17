@@ -58,10 +58,10 @@ Assim que todas as configurações estiverem feitas, abra e execute a classe _**
 ## :globe_with_meridians: Sobre o Projeto
 
 Conforme informado anteriormente, a ideia primordial deste projeto é o desenvolvimento de um site para a organização e gerenciamento de tarefas empresariais que adotam metodologias ágeis. As principais funcionalidades presentes dentro do projeto são:
-- Criação e distribuição das tarefas
-- Distribuição de pontos por tarefas
+- Criação e Distribuição das Tarefas
+- Distribuição de Pontos por Tarefas
 - Loja de Pontos
-- Visualização de relatorios mensais por funcionario (Gestor)
+- Visualização de Relatorios Mensais por Funcionário (Gestor)
   
 
  Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, utilizando o algoritmo de ordenação `Quick Sort` para o rankeamento de usuários. Foi implementado o banco de dados `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. 
