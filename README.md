@@ -46,7 +46,7 @@ Após realizada a cópia do repositório, algumas coisas devem ser feitas antes.
             <li>Vá ao arquivo application.proprieties;</li>
             <br>
             <li>
-                Altere as informações dentro de [ ];
+                Preencha as informações necessárias (sinalizadas nos colchetes);
                 <img src="https://github.com/Questfy-Hub/General_Informations/assets/146457912/03a73727-a598-4b8a-8ae3-fc9bc8478d4b">
             </li>
         </ol>
