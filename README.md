@@ -64,7 +64,7 @@ Conforme informado anteriormente, a ideia primordial deste projeto é o desenvol
 - Visualização de relatorios mensais por funcionario (Gestor)
   
 
- Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, utilizando o algoritmo de ordenação `Quick Sort` para o rankeamendo de usuários. Foi implementado o banco de dados `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. 
+ Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, utilizando o algoritmo de ordenação `Quick Sort` para o rankeamento de usuários. Foi implementado o banco de dados `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. 
 
 
 - FRONT END: `ANGULAR`
