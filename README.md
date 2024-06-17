@@ -2,7 +2,7 @@
 
 A plataforma _**QuestfyHub**_ consiste em um gerenciador de tarefas com elementos de gamificação para utilização empresarial. O sistema é ideal para instituições que buscam formas inovadoras e personalizáveis de beneficiar os colaboradores, permitindo a compra de diferentes recompensas com pontos adquiridos na conclusão de atividades escolhidas pela própria empresa. 
 
-O projeto foi criado como requisito obrigatório da UC "Estrutura de Dados e Análise de Algoritmos", parte da grade do curso de Ciência da computação na UNA. Inicialmente, o software não foi desenvolvido com propósitos comerciais.
+O projeto foi criado como requisito obrigatório da UC "Estrutura de Dados e Análise de Algoritmos", parte da grade do curso de Ciência da Computação na UNA. Inicialmente, o software não foi desenvolvido com propósitos comerciais.
 ## :rocket: Pré-requisitos
 Antes de começar, certifique-se de que todos os pré-requisitos abaixo sejam atendidos, para que seja possivel a utilização local do projeto:
 - Java 17
