@@ -61,7 +61,7 @@ Conforme informado anteriormente, a ideia primordial deste projeto é o desenvol
 - Criação e Distribuição das Tarefas
 - Distribuição de Pontos por Tarefas
 - Loja de Pontos
-- Visualização de Relatorios Mensais por Funcionário (Gestor)
+- Visualização de Relatórios Mensais por Funcionário (Gestor)
   
 
  Todo o desenvolvimento do site foi trabalhado na linguagem `Java`, utilizando o algoritmo de ordenação `Quick Sort` para o rankeamento de usuários. Foi implementado o banco de dados `PostGreSQL` para a conexão dos bancos de dados com o site. A parte visual foi desenvolvida no `Figma`. 
