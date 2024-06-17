@@ -157,3 +157,5 @@ Conforme informado anteriormente, a ideia primordial deste projeto é o desenvol
 - [Codigo do Front-End](https://github.com/Questfy-Hub/Front-End)
 - [Diagrama do Banco de Dados](https://github.com/Questfy-Hub/General_Informations/blob/main/A3.mwb)
 - [Modelo do Banco de Dados](https://github.com/Questfy-Hub/General_Informations/blob/main/QuestfyHub_DB.sql)
+- [Slides da apresentação](ExpoUna_EDAA_QuestfyHub.pptx)
+
