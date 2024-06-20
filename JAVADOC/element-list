@@ -1,0 +1,10 @@
+com.questifyHub.app
+com.questifyHub.app.Controllers
+com.questifyHub.app.DTOs
+com.questifyHub.app.Entities
+com.questifyHub.app.Exceptions
+com.questifyHub.app.Model
+com.questifyHub.app.Regex
+com.questifyHub.app.Repositories
+com.questifyHub.app.Services
+com.questifyHub.app.Sort
